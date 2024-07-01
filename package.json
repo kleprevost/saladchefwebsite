@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "fetch-content": "node fetch-content.js",
+    "fetch-content": "node fetch-content.cjs",
     "build": "astro check && astro build",
     "preview": "astro preview",
     "astro": "astro"
